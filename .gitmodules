@@ -1,4 +1,3 @@
-[submodule "libuv"]
-	path = libuv
-	url = git@github.com:libuv/libuv.git
-	branch = main
+[submodule "deps/libuv"]
+	path = deps/libuv
+	url = https://github.com/libuv/libuv.git
